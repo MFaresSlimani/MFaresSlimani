@@ -1,5 +1,6 @@
 # 👋 Hi there, I'm Fares (aka Tsuki)!
 
+💻 **Flutter Developer**
 🎂 **23 years old**  
 🌍 **From Algeria**  
 🎨 **Interested in AI, Game Development, and Infographic Design**
