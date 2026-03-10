@@ -38,18 +38,10 @@ I build production Flutter apps that actually ship — fintech, telecom, digital
 
 ---
 
-## 📊 Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MFaresSlimani&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFaresSlimani&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
 
 ## 🎮 Outside of work
 
-Valorant · Genshin Impact · MGS Snake Eater (GOAT) · Anime · Gym · YOASOBI · Linkin Park · German rap
+Gaming · Gym · Music
 
 ---
 
