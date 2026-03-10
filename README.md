@@ -1,6 +1,6 @@
 # Hi, I'm Fares (aka Tsuki) 👋
 
-**Flutter & Mobile Engineer** · **PhD Researcher in AI** · **Based in Algeria, relocating to Germany**
+**Flutter & Mobile Engineer** · **PhD Researcher in AI** · **Based in Algeria, open to relocation **
 
 ---
 
