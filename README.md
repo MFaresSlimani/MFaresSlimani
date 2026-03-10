@@ -1,53 +1,31 @@
-# 👋 Hi there, I'm Fares (aka Tsuki)!
+# Hi, I'm Fares (aka Tsuki) 👋
 
-💻 **Flutter Developer**
-🎂 **23 years old**  
-🌍 **From Algeria**  
-🎨 **Interested in AI, Game Development, and Infographic Design**
+**Flutter & Mobile Engineer** · **PhD Researcher in AI** · **Based in Algeria, relocating to Germany**
 
 ---
 
 ## About Me
 
-- 🎓 **Systems Engineer**
-- 💻 **Flutter Developer**
-- 🧠 **Research Enthusiast**
-- 🤖 **Learning AI** (Computer Vision, Machine Learning, Deep Learning)
-- 🎮 **Learning Game Development** (UE5, Unity, Blender)
-- 🎨 **Infographic Design**
-- 🐧 **Linux User and Enthusiast** - I use Linux and I love it!
-- 🌟 **Always learning new things and having fun!**
-- 🗄️ **Learning Databases**
-- 🛠️ **PC Repair and IT Technician**
-- 🌐 **Language Fanatic** - I speak:
-  - 🇺🇸 English
-  - 🇩🇿 Arabic
-  - 🇩🇪 German
-  - 🇫🇷 French
-  - 🇹🇷 Turkish
-  - 🇯🇵 Japanese
+I build production-grade mobile apps with Flutter — covering fintech, telecom, digital identity (NFC/MRZ/KYC), and enterprise system integrations. Currently working at ICOSNET SPA shipping apps used by thousands of clients.
 
+Alongside that, I'm a PhD researcher at Boumerdès University focusing on **retinal vessel segmentation using deep learning** (U-Net, Attention U-Net, FR-UNet on CHASE_DB1).
 
-## Goals
-
-- 💡 **Contribute to Research**
-- 🌍 **Learn More Languages**
+- 🐧 Fedora/Linux daily driver, Hyprland enjoyer
+- 🌍 Looking for Flutter/mobile opportunities in **Germany**
+- 🗣️ Arabic · English · German (B1) · French · Turkish
 
 ---
 
-## Get in Touch!
+## Tech Stack
 
-Feel free to contact me! I'm always open to new opportunities and collaborations. Let's connect and create something amazing together! 😊
+**Mobile:** Flutter · Dart · Clean Architecture · REST · WebSockets · NFC · MRZ  
+**Backend:** Django · DRF · WHMCS · Dynamics NAV · Alfresco  
+**AI/ML:** PyTorch · TensorFlow · OpenCV · sklearn  
+**Tools:** Git · Linux · CI/CD · Google Play · App Store
 
 ---
+
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fares%20Slimani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faresslimani01/)
-[![Facebook](https://img.shields.io/badge/Facebook-Mohamed%20Fares%20Slimani-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/mfaresSlimani)
-[![Instagram](https://img.shields.io/badge/Instagram-@tsuki_699-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tsuki_699/)
-
----
-
-Looking forward to connecting with you!
-
-Best regards,  
-**Mohamed Fares SLIMANI**
+[![Email](https://img.shields.io/badge/Email-faresslimani0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faresslimani0@gmail.com)
