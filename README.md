@@ -26,7 +26,7 @@ I build production Flutter apps that actually ship — fintech, telecom, digital
 
 - 🔬 PhD research — retinal vessel segmentation with deep learning (CHASE\_DB1, FR-UNet achieving 0.815 F1)
 - 📱 Building production mobile apps @ ICOSNET
-- 🇩🇪 German B1, working toward C1
+- 🇩🇪 German B2 (ECL certified), working toward C1
 - 🌍 Open to opportunities in Germany
 
 ---
